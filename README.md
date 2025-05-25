@@ -26,8 +26,10 @@ Ainda estou no começo, mas com muita vontade de aprender e crescer na área.
             src="https://custom-icon-badges.demolab.com/github/followers/Jessica-SFernandes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+    <a href="https://www.linkedin.com/in/jessicaf-ernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+</p>
+  
 ---
 
 ### 🤖 
