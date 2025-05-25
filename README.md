@@ -1,5 +1,8 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/56fb52ec-5468-4d5c-8d27-b5bb32e14deb"/>
 
+<br>
+<br>
+
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+&weight=100&size=15&pause=1000&color=FFFFFFEF&width=435&lines=Ol%C3%A1+Mundo!+%F0%9F%AB%B0" alt="Typing SVG" /></a>
 
 - 🔭 Transição de Carreira
@@ -35,7 +38,7 @@ Ainda estou no começo, mas com muita vontade de aprender e crescer na área.
 ---
 
 ### 🤖 
-
+ <br>
 
 <img 
     align="left" 
