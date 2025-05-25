@@ -1,4 +1,4 @@
-## Olá Mundo! 👋 sou a Jéssica Fernandes.
+## Olá Mundo! 👋 sou a Jéssica Fernandes
 
 - 🔭 Transição de Carreira
 - 💻 Estudando Ciênicas da Computação
