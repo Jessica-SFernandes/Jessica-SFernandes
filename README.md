@@ -149,3 +149,8 @@ Ainda estou no começo, mas com muita vontade de aprender e crescer na área.
 <br/>
 <br/>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jessica-SFernandes/Jessica-SFernandes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jessica-SFernandes/Jessica-SFernandes/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jessica-SFernandes/Jessica-SFernandes/output/github-contribution-grid-snake.svg">
+</picture>
