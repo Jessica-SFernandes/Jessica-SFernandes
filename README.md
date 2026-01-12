@@ -2,18 +2,29 @@
 
 <br>
 
-- 🔭 Transição de Carreira
-- 💻 Cursando Ciênicas da Computação
-- ❤️ Desbravando o Mundo da Tecnologia
+💻 Em transição de carreira para Tecnologia  
+🎓 Estudante de Ciências da Computação  
+🚀 Focada em Desenvolvimento Fullstack e projetos práticos  
 
 ---
 
-# 👩🏻‍💻 Jéssica Fernandes
+# 👩🏻‍💻 Sobre mim
 
-Oi! Eu sou a Jéssica e estou começando minha jornada no mundo da tecnologia, estudando Ciências da Computação e explorando tudo o que esse universo incrível tem a oferecer.
-Por aqui, você vai encontrar meus primeiros projetos, anotações, testes e muitos aprendizados ao longo do caminho.
+Sou a Jéssica Fernandes, estudante de tecnologia em transição de carreira.  
+Aqui compartilho minha jornada de aprendizado através de projetos, estudos, testes e desafios práticos.
 
-Ainda estou no começo, mas com muita vontade de aprender e crescer na área.
+Meu objetivo é evoluir constantemente, aplicando na prática tudo o que estudo e construindo uma base sólida em desenvolvimento.
+
+---
+
+### 📌 O que você vai encontrar aqui
+
+- Projetos iniciais em **HTML, CSS e JavaScript**
+- Estudos de **lógica de programação**
+- Exercícios práticos e desafios
+- Projetos desenvolvidos em cursos e bootcamps
+
+---
 
 <p align="left">
     <a href="https://github.com/Jessica-SFernandes?tab=repositories&sort=stargazers">
