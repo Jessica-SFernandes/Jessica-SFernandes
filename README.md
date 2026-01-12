@@ -8,7 +8,7 @@
 
 ---
 
-# 👩🏻‍💻 Sobre mim
+### 👩🏻‍💻 Sobre mim
 
 Sou a Jéssica Fernandes, estudante de tecnologia em transição de carreira.  
 Aqui compartilho minha jornada de aprendizado através de projetos, estudos, testes e desafios práticos.
